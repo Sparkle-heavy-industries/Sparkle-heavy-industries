@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sparkle-heavy-industries
+- 👋 Hi, I’m Sparkleops from @Sparkle-heavy-industries
 - 👀 I’m interested in ... Blue team and security research
 - 🌱 I’m currently learning ... Mobile Foresnics, Recon
 - 💞️ I’m looking to collaborate on ...
