@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sparkleops from @Sparkle-heavy-industries
 - 👀 I’m interested in ... Blue team and security research
-- 🌱 I’m currently learning ... Mobile Foresnics, Recon
+- 🌱 I’m currently learning ... Recon, Red team operations 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @sparkleops on twitter
 
